@@ -1,0 +1,80 @@
+.color{
+    background-color: blueviolet;
+    color: white;
+    display: inline-block;
+}
+
+div{
+    text-align: center;
+}
+
+
+#quote1{
+    width: 200px;
+    height:140px ;
+    padding:10px;
+    border-style: ridge;
+    border-width: 10px;
+    border-color:yellow;
+    display: inline-block;
+    position: absolute;
+    left: 5%;
+    background-color: rgb(243, 243, 193);
+    text-transform: capitalize;
+}
+
+#quote2{
+    width: 200px;
+    height:100px ;
+    padding:10px;
+    border-style: ridge;
+    border-width: 10px;
+    border-color: aqua;
+    position: absolute;
+    left: 75%;
+    background-color: rgb(157, 245, 245);
+    text-transform: capitalize;
+    
+}
+
+#quote3{
+    width: 200px;
+    height:130px ;
+    padding:10px;
+    border-style: ridge;
+    border-width: 10px;
+    border-color:crimson;
+    position:absolute;
+    top: 65%;
+    left: 5%;
+    background-color: rgb(245, 180, 193);
+    text-transform: capitalize;
+    
+}
+
+#quote4{
+    width: 200px;
+    height:120px ;
+    padding:10px;
+    border-style: ridge;
+    border-width: 10px;
+    border-color: rgb(4, 255, 0);
+    position:absolute;
+    top: 65%;
+    left:75% ;
+    background-color:rgb(180, 241, 179) ;
+    text-transform: capitalize;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
